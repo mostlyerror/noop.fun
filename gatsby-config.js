@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'Kyle Mathews',
-    description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    title: 'noop.fun',
+    author: 'Ben Poon',
+    description: 'Stream of Consciousness, published.',
+    siteUrl: 'https://noop.fun',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
