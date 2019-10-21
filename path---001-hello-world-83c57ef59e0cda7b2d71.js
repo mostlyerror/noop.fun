@@ -1,0 +1,2 @@
+webpackJsonp([0x97841f0b5562],{388:function(e,o){e.exports={data:{site:{siteMetadata:{title:"noop.fun",author:"Ben Poon"}},markdownRemark:{id:"/Users/ben/dev/noop.fun/src/pages/001-hello-world/index.md absPath of file >>> MarkdownRemark",html:"<p>I need a place to (1) stick my notes, (2) share my notes.</p>\n<p>So here we are.</p>",frontmatter:{title:"Hello World",date:"October 21, 2019"}}},pathContext:{slug:"/001-hello-world/",previous:null,next:null}}}});
+//# sourceMappingURL=path---001-hello-world-83c57ef59e0cda7b2d71.js.map

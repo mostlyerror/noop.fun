@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{391:function(e,t){e.exports={data:{site:{siteMetadata:{title:"noop.fun"}},allMarkdownRemark:{edges:[{node:{excerpt:"I need a place to (1) stick my notes, (2) share my notes. So here we are.",fields:{slug:"/001-hello-world/"},frontmatter:{date:"21 October, 2019",title:"Hello World"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-b45e7c0c8ae194ea8852.js.map
